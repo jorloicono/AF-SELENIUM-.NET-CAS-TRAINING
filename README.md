@@ -6,7 +6,7 @@
 - Introducción a Selenium WebDriver y su ecosistema
 
 ## Configuración del entorno de automatización
-- Configuración del entorno en entornos no Java (PHP, .NET)
+- Configuración del entorno en entornos .NET
 - Herramientas y editores recomendados para el trabajo con Selenium
 - Instalación y uso de WebDriver para distintos navegadores
 
